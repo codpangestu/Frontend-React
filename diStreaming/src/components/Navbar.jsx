@@ -20,7 +20,7 @@ const styles = {
     left: 0,
     right: 0,
     height: "70px",
-    background: "rgba(0, 0, 0, 0.08)",
+    background: "rgba(0, 0, 0, 0.66)",
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
